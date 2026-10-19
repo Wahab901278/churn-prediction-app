@@ -5,5 +5,5 @@ matplotlib
 streamlit
 scikeras
 ipykernel
-tensorflow==2.16.*
-numpy==1.26.4
+tensorflow
+numpy
